@@ -1,0 +1,8 @@
+name = "ui-dashboard"
+version = "0.1.0"
+type = "ui"
+description = "Core Dashboard UI"
+
+[config]
+html = true
+static_dir = "dist"
